@@ -1,5 +1,6 @@
 <template>
-    <div style="width: 800px;">
+    <div style="width: 95%; margin-left: auto; margin-right: auto;
+      padding-bottom: 15px;">
         <h1>Rich Grid with Pure JavaScript</h1>
         <div style="padding: 4px;">
             <div style="float: right;">
@@ -37,7 +38,8 @@
                 <button @click="createRowData()">Refresh Data</button>
             </div>
             <div style="clear: both;"></div>
-            <ag-grid-vue style="width: 100%; height: 350px;" class="ag-fresh"
+            <ag-grid-vue style="width: 100%; height: 350px;"
+                         class="ag-fresh"
                          :gridOptions="gridOptions"
                          :columnDefs="columnDefs"
                          :rowData="rowData"

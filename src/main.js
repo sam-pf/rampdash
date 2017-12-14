@@ -5,13 +5,14 @@ import "../node_modules/ag-grid/dist/styles/theme-fresh.css";
 import "../node_modules/bootstrap/dist/css/bootstrap.css";
 
 // only needed if you use ag-grid enterprise features
-import "ag-grid-enterprise/main";
+// import "ag-grid-enterprise/main";
 
 // only needed if you use ag-grid enterprise features
 // import {LicenseManager} from "ag-grid-enterprise/main";
 // LicenseManager.setLicenseKey("your license key");
 
 import RichGridExample from "./rich-grid-example/RichGridExample.vue";
+import RampGameExample from "./rampgame-activity-dashboard/RichGridExample.vue";
 import DynamicComponentExample from "./dynamic-component-example/DynamicComponentExample.vue";
 import RichDynamicComponentExample from "./rich-dynamic-component-example/RichDynamicComponentExample.vue";
 import EditorComponentExample from "./editor-component-example/EditorComponentExample.vue";
@@ -24,7 +25,8 @@ import LargeDataSetExample from "./large-data-set-example/LargeDataSetExample.vu
 Vue.use(VueRouter);
 
 const routes = [
-    {path: '/', component: RichGridExample, name: "Rich Grid with Pure JavaScript"},
+    {path: '/', component: RampGameExample, name: "Rampgame Activity Dashboard"},
+    {path: '/rich', component: RichGridExample, name: "Rich Grid with Pure JavaScript"},
     {path: '/dynamic', component: DynamicComponentExample, name: "Dynamic Components Example"},
     {path: '/rich-dynamic', component: RichDynamicComponentExample, name: "Dynamic Components - Richer Example"},
     {path: '/editor', component: EditorComponentExample, name: "Editor Component Example"},

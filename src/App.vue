@@ -8,9 +8,10 @@
     import "../node_modules/ag-grid/dist/styles/ag-grid.css"
     import "../node_modules/ag-grid/dist/styles/theme-fresh.css"
     // only needed if you're using enterprise features
-    import "ag-grid-enterprise/main";
+    // import "ag-grid-enterprise/main";
 
     import RichGridExample from './rich-grid-example/RichGridExample.vue'
+    import RampGameExample from './rampgame-activity-dashboard/RichGridExample.vue'
     import DynamicComponentExample from './dynamic-component-example/DynamicComponentExample.vue'
     import RichDynamicComponentExample from './rich-dynamic-component-example/RichDynamicComponentExample.vue'
     import EditorComponentExample from './editor-component-example/EditorComponentExample.vue'
@@ -21,6 +22,7 @@
 
     export default {
         components: {
+            'ramp-game-example': RichGridExample,
             'rich-grid-example': RichGridExample,
             'dynamic-components-example': DynamicComponentExample,
             'rich-dynamic-components-example': RichDynamicComponentExample,
