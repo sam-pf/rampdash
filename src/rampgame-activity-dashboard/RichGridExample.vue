@@ -514,7 +514,7 @@
 
   .incorrect {
     padding: 1px 3px;
-    background-color: red;
+    background-color: orange;
   }
 
   .ag-menu {
