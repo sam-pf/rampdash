@@ -25,16 +25,7 @@ import LargeDataSetExample from "./large-data-set-example/LargeDataSetExample.vu
 Vue.use(VueRouter);
 
 const routes = [
-    {path: '/', component: RampGameExample, name: "Rampgame Activity Dashboard"},
-    {path: '/rich', component: RichGridExample, name: "Rich Grid with Pure JavaScript"},
-    {path: '/dynamic', component: DynamicComponentExample, name: "Dynamic Components Example"},
-    {path: '/rich-dynamic', component: RichDynamicComponentExample, name: "Dynamic Components - Richer Example"},
-    {path: '/editor', component: EditorComponentExample, name: "Editor Component Example"},
-    {path: '/floating', component: FloatingRowExample, name: "Pinned Row Example"},
-    {path: '/full-width', component: FullWidthRowExample, name: "Full Width Row Example"},
-    {path: '/grouped-row', component: GroupedRowExample, name: "Grouped Row Example"},
-    {path: '/filter', component: FilterExample, name: "Filter Example"},
-    {path: '/large-data', component: LargeDataSetExample, name: "Large Data Example"}
+    {path: '/', component: RampGameExample, name: "Rampgame Activity Dashboard"}
 ];
 
 const router = new VueRouter({
