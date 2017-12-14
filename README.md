@@ -7,10 +7,15 @@ show what we may want for [a ramp game LARA
 activity](https://authoring.concord.org/activities/8186/) being built at the
 Concord Consortium.
 
+Clearly, this mockup demo is non-functional as all data are fake, and it is
+incomplete (Page 5 missing, as is Page 1 (?)).  The purpose is not to show
+full functionalities.  Its purpose is to show what minimal information must
+be coordinated under the hood for this type of dashboard to function.
+
 # How to make this demo work
 
-Locally, you can use `npm install` and then `npm run dev`.  For production,
-use `npm run build`.
+First, `npm install`.  Then `npm run dev` while developing locally.  For
+production, use `npm run build`.
 
 You can visit [here](https://physicsfront.com/rampdash) to see what this demo
 looks like in the wild.
