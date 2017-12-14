@@ -7,10 +7,16 @@ show what we may want for [a ramp game LARA
 activity](https://authoring.concord.org/activities/8186/) being built at the
 Concord Consortium.
 
-Clearly, this mockup demo is non-functional as all data are fake, and it is
-incomplete (Page 5 missing, as is Page 1 (?)).  The purpose is not to show
-full functionalities.  Its purpose is to show what minimal information must
-be coordinated under the hood for this type of dashboard to function.
+This mockup demo is incomplete.  Page 5 is missing, as is Page 1 (?)).  Also,
+in a more developed version, the full history of student responses to a
+question and the full history of MCBKT diagnostic for student game play
+should be available.  That type of fuller information may be accessed when a
+user clicks the corresponding in-cell element and gets sent to a different
+page or a popup element.
+
+For the initial version here, the purpose is to show what minimal information
+must be coordinated under the hood for this type of dashboard to start to
+function.
 
 # How to make this demo work
 
