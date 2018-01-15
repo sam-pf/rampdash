@@ -1,7 +1,7 @@
 <template>
   <div style="width: 95%; margin-left: auto; margin-right: auto;
     padding-bottom: 10px;">
-    <h2>Dashboard (Mockup) for Ramp Game with Analytics</h2>
+    <h2>Dashboard for Ramp Game with Analytics</h2>
     <h3>Class of Ms. Teach Well at Good Thoughts High School</h3>
     <div style="clear: both;"></div>
     <div v-if="showGrid">
