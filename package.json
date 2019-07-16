@@ -46,9 +46,10 @@
     "gulp": "^4.0.2",
     "http-server": "^0.11.1",
     "js-yaml": "^3.13.1",
+    "lodash.template": "^4.5.0",
     "macaddress": "^0.2.9",
     "mixin-deep": "^2.0.1",
-    "run-sequence": "^1.2.2",
+    "run-sequence": "^2.2.1",
     "url-parse": "^1.4.7",
     "webpack-dev-server": "^3.3.1"
   }
