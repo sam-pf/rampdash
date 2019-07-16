@@ -22,7 +22,7 @@
     "vue"
   ],
   "dependencies": {
-    "ag-grid": "^14.2.0",
+    "ag-grid": "^18.1.2",
     "ag-grid-vue": "^14.2.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^6.0.0",
@@ -47,7 +47,7 @@
     "http-server": "^0.11.1",
     "js-yaml": "^3.13.1",
     "macaddress": "^0.2.9",
-    "mixin-deep": "^2.0.0",
+    "mixin-deep": "^2.0.1",
     "run-sequence": "^1.2.2",
     "url-parse": "^1.4.7",
     "webpack-dev-server": "^3.3.1"
