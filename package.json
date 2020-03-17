@@ -36,21 +36,23 @@
     "vue": "^2.5.10",
     "vue-loader": "^10.0.0",
     "vue-router": "^2.1.0",
-    "vue-template-compiler": "^2.1.0",
-    "webpack": "^2.2.0"
+    "vue-template-compiler": "^2.1.0"
   },
   "devDependencies": {
+    "acorn": "^7.1.1",
     "del": "^2.2.2",
     "ecstatic": "^4.1.2",
     "extend": "^3.0.2",
     "gulp": "^4.0.2",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.1",
     "js-yaml": "^3.13.1",
     "lodash.template": "^4.5.0",
     "macaddress": "^0.2.9",
+    "minimist": "^1.2.5",
     "mixin-deep": "^2.0.1",
     "run-sequence": "^2.2.1",
     "url-parse": "^1.4.7",
-    "webpack-dev-server": "^3.3.1"
+    "webpack": "^2.7.0",
+    "webpack-dev-server": "^3.10.3"
   }
 }
