@@ -22,7 +22,6 @@
     "vue"
   ],
   "dependencies": {
-    "ag-grid": "^18.1.2",
     "ag-grid-community": "^19.1.4",
     "ag-grid-vue": "^19.1.2",
     "babel-core": "^6.26.3",
