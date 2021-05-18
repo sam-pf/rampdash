@@ -6201,15 +6201,15 @@
     "camelcase" "^5.0.0"
     "decamelize" "^1.2.0"
 
-"yargs-parser@^20.2.0", "yargs-parser@^20.2.2":
-  "integrity" "sha512-WOkpgNhPTlE73h4VFAFsOnomJVaovO8VqLDzy5saChRBFQFBoMYirowyW+Q9HB4HFF4Z7VZTiG3iSzJJA29yRA=="
-  "resolved" "https://registry.npmjs.org/yargs-parser/-/yargs-parser-20.2.4.tgz"
-  "version" "20.2.4"
+"yargs-parser@^20.2.2":
+  "integrity" "sha512-FiNkvbeHzB/syOjIUxFDCnhSfzAL8R5vs40MgLFBorXACCOAEaWu0gRZl14vG8MR9AOJIZbmkjhusqBYZ3HTHw=="
+  "resolved" "https://registry.npmjs.org/yargs-parser/-/yargs-parser-20.2.7.tgz"
+  "version" "20.2.7"
 
-"yargs-parser@5.0.0-security.0":
-  "integrity" "sha512-T69y4Ps64LNesYxeYGYPvfoMTt/7y1XtfpIslUeK4um+9Hu7hlGoRtaDLvdXb7+/tfq4opVa2HRY5xGip022rQ=="
-  "resolved" "https://registry.npmjs.org/yargs-parser/-/yargs-parser-5.0.0-security.0.tgz"
-  "version" "5.0.0-security.0"
+"yargs-parser@^5.0.1", "yargs-parser@~>5.0.0":
+  "integrity" "sha512-wpav5XYiddjXxirPoCTUPbqM0PXvJ9hiBMvuJgInvo4/lAOTZzUprArw17q2O1P2+GHhbBr18/iQwjL5Z9BqfA=="
+  "resolved" "https://registry.npmjs.org/yargs-parser/-/yargs-parser-5.0.1.tgz"
+  "version" "5.0.1"
   dependencies:
     "camelcase" "^3.0.0"
     "object.assign" "^4.1.0"
@@ -6230,10 +6230,10 @@
     "y18n" "^4.0.0"
     "yargs-parser" "^13.1.2"
 
-"yargs@^16.0.3":
-  "integrity" "sha512-D1mvvtDG0L5ft/jGWkLpG1+m0eQxOfaBvTNELraWj22wSVUMWxZUvYgJYcKh6jGGIkJFhH4IZPQhR4TKpc8mBw=="
-  "resolved" "https://registry.npmjs.org/yargs/-/yargs-16.2.0.tgz"
-  "version" "16.2.0"
+"yargs@^17.0.1":
+  "integrity" "sha512-xBBulfCc8Y6gLFcrPvtqKz9hz8SO0l1Ni8GgDekvBX2ro0HRQImDGnikfc33cgzcYUSncapnNcZDjVFIH3f6KQ=="
+  "resolved" "https://registry.npmjs.org/yargs/-/yargs-17.0.1.tgz"
+  "version" "17.0.1"
   dependencies:
     "cliui" "^7.0.2"
     "escalade" "^3.1.1"
@@ -6244,9 +6244,9 @@
     "yargs-parser" "^20.2.2"
 
 "yargs@^7.1.0":
-  "integrity" "sha512-huO4Fr1f9PmiJJdll5kwoS2e4GqzGSsMT3PPMpOwoVkOK8ckqAewMTZyA6LXVQWflleb/Z8oPBEvNsMft0XE+g=="
-  "resolved" "https://registry.npmjs.org/yargs/-/yargs-7.1.1.tgz"
-  "version" "7.1.1"
+  "integrity" "sha512-ZEjj/dQYQy0Zx0lgLMLR8QuaqTihnxirir7EwUHp1Axq4e3+k8jXU5K0VLbNvedv1f4EWtBonDIZm0NUr+jCcA=="
+  "resolved" "https://registry.npmjs.org/yargs/-/yargs-7.1.2.tgz"
+  "version" "7.1.2"
   dependencies:
     "camelcase" "^3.0.0"
     "cliui" "^3.2.0"
@@ -6260,4 +6260,4 @@
     "string-width" "^1.0.2"
     "which-module" "^1.0.0"
     "y18n" "^3.2.1"
-    "yargs-parser" "5.0.0-security.0"
+    "yargs-parser" "^5.0.1"
