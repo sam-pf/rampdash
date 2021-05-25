@@ -41,9 +41,10 @@
   "devDependencies": {
     "acorn": "^7.3.1",
     "del": "^2.2.2",
+    "dns-packet": "~>5.2.2",
     "ecstatic": "^4.1.4",
     "extend": "^3.0.2",
-    "gulp": "^4.0.2",
+    "gulp": "^3.9.1",
     "hosted-git-info": "~>2.8.9",
     "http-server": "^0.12.3",
     "js-yaml": "^3.14.0",
@@ -59,9 +60,9 @@
     "ssri": "~>6.0.2",
     "url-parse": "~>1.5.0",
     "webpack": "^4.44.2",
-    "webpack-dev-server": "^3.11.0",
+    "webpack-dev-server": "^2.4.5",
     "y18n": "~>3.2.2",
     "yargs": "^17.0.1",
-    "yargs-parser": "~>5.0.0"
+    "yargs-parser": "^20.2.7"
   }
 }
