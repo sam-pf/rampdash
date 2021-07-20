@@ -46,7 +46,6 @@
     "extend": "^3.0.2",
     "glob-parent": "~>5.1.2",
     "hosted-git-info": "~>2.8.9",
-    "http-server": "^0.12.3",
     "js-yaml": "^3.14.0",
     "lodash.template": "^4.5.0",
     "macaddress": "^0.2.9",
