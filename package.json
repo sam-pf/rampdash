@@ -34,7 +34,7 @@
     "jquery": "^3.5.1",
     "style-loader": "^0.13.1",
     "vue": "^2.6.11",
-    "vue-loader": "^10.0.0",
+    "vue-loader": "^15.9.8",
     "vue-router": "^2.1.0",
     "vue-template-compiler": "^2.6.11"
   },
@@ -51,6 +51,7 @@
     "macaddress": "^0.2.9",
     "minimist": "^1.2.5",
     "mixin-deep": "^2.0.1",
+    "nanoid": "~>3.1.31",
     "node-forge": "^1.0.0",
     "popper.js": "^1.16.1",
     "run-sequence": "^2.2.1",
