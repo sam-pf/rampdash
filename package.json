@@ -61,6 +61,7 @@
     "run-sequence": "^2.2.1",
     "simple-get": "^4.0.1",
     "ssri": "~>6.0.2",
+    "terser": "^5.14.2",
     "url-parse": "^1.5.10",
     "webpack": "^5.69.1",
     "ws": "~>6.2.2",
