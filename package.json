@@ -48,7 +48,7 @@
     "glob-parent": "~>5.1.2",
     "hosted-git-info": "~>2.8.9",
     "js-yaml": "^3.14.0",
-    "json5": "~>1.0.2",
+    "json5": "^2.2.2",
     "lodash": "^4.17.21",
     "lodash.template": "^4.5.0",
     "macaddress": "^0.2.9",
